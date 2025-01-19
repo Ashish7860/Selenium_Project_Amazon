@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="9" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-10T18:06:37 IST" name="Suite" finished-at="2024-11-10T18:08:31 IST" duration-ms="113344">
+    <groups>
+    </groups>
+    <test started-at="2024-11-10T18:06:37 IST" name="Test" finished-at="2024-11-10T18:08:31 IST" duration-ms="113344">
+      <class name="com.nagarro.selenium_assignment.Test.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:37 IST" name="setUp" finished-at="2024-11-10T18:06:41 IST" duration-ms="3666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHoverAndSelectHindiLanguage()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:41 IST" name="testHoverAndSelectHindiLanguage" finished-at="2024-11-10T18:06:44 IST" duration-ms="2836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoverAndSelectHindiLanguage -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:44 IST" name="closure" finished-at="2024-11-10T18:06:44 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:44 IST" name="tearDown" finished-at="2024-11-10T18:06:44 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:44 IST" name="setUp" finished-at="2024-11-10T18:06:49 IST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testOpenCustomerProfileMenu()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:49 IST" name="testOpenCustomerProfileMenu" finished-at="2024-11-10T18:06:51 IST" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenCustomerProfileMenu -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:51 IST" name="closure" finished-at="2024-11-10T18:06:52 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:52 IST" name="tearDown" finished-at="2024-11-10T18:06:52 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:52 IST" name="setUp" finished-at="2024-11-10T18:06:55 IST" duration-ms="2981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionality(java.lang.String,java.lang.String)[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:06:55 IST" name="testSearchFunctionality" data-provider="getSearchData" finished-at="2024-11-10T18:07:01 IST" duration-ms="5854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HP Laptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:01 IST" name="closure" finished-at="2024-11-10T18:07:01 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:01 IST" name="tearDown" finished-at="2024-11-10T18:07:01 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:01 IST" name="setUp" finished-at="2024-11-10T18:07:04 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionality(java.lang.String,java.lang.String)[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:04 IST" name="testSearchFunctionality" data-provider="getSearchData" finished-at="2024-11-10T18:07:09 IST" duration-ms="4578" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[InvalidSearchTerm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fail]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Search test result does not match expected outcome. expected [Fail] but found [Success]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Search test result does not match expected outcome. expected [Fail] but found [Success]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at com.nagarro.selenium_assignment.Test.HomePageTest.testSearchFunctionality(HomePageTest.java:56)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:09 IST" name="closure" finished-at="2024-11-10T18:07:09 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:09 IST" name="tearDown" finished-at="2024-11-10T18:07:09 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:09 IST" name="setUp" finished-at="2024-11-10T18:07:13 IST" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTitle()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:13 IST" name="testTitle" finished-at="2024-11-10T18:07:13 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:13 IST" name="closure" finished-at="2024-11-10T18:07:13 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:13 IST" name="tearDown" finished-at="2024-11-10T18:07:13 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:13 IST" name="setUp" finished-at="2024-11-10T18:07:16 IST" duration-ms="2707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTodaysBestDealsNavigation()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:16 IST" name="testTodaysBestDealsNavigation" finished-at="2024-11-10T18:07:20 IST" duration-ms="4013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTodaysBestDealsNavigation -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:20 IST" name="closure" finished-at="2024-11-10T18:07:20 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:20 IST" name="tearDown" finished-at="2024-11-10T18:07:20 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:20 IST" name="setUp" finished-at="2024-11-10T18:07:24 IST" duration-ms="3499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUpdateLocationPincode()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:24 IST" name="testUpdateLocationPincode" finished-at="2024-11-10T18:07:29 IST" duration-ms="4872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateLocationPincode -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:29 IST" name="closure" finished-at="2024-11-10T18:07:29 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.HomePageTest@5386659f]" started-at="2024-11-10T18:07:29 IST" name="tearDown" finished-at="2024-11-10T18:07:29 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.selenium_assignment.Test.HomePageTest -->
+      <class name="com.nagarro.selenium_assignment.Test.CartPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.CartPageTest@6f204a1a]" started-at="2024-11-10T18:08:25 IST" name="setUp" finished-at="2024-11-10T18:08:28 IST" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSignInNavigation()[pri:0, instance:com.nagarro.selenium_assignment.Test.CartPageTest@6f204a1a]" started-at="2024-11-10T18:08:28 IST" name="testSignInNavigation" finished-at="2024-11-10T18:08:30 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.CartPageTest@6f204a1a]" started-at="2024-11-10T18:08:30 IST" name="tearDown" finished-at="2024-11-10T18:08:31 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.selenium_assignment.Test.CartPageTest -->
+      <class name="com.nagarro.selenium_assignment.Test.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:29 IST" name="setUp" finished-at="2024-11-10T18:07:32 IST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithBlankEmail()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:32 IST" name="testLoginWithBlankEmail" finished-at="2024-11-10T18:07:45 IST" duration-ms="13089" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ap_password']' (tried for 10 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ap_password']' (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.nagarro.selenium_assignment.pageObject.Login.enterPassword(Login.java:86)
+at com.nagarro.selenium_assignment.Test.LoginTest.testLoginWithBlankEmail(LoginTest.java:104)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='ap_password']"}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6caee7c37c91e5d321db72c0213c69cf, findElement {using=xpath, value=//input[@id='ap_password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\ASHISH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63247}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63247/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6caee7c37c91e5d321db72c0213c69cf
+at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy15.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithBlankEmail -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:45 IST" name="closure" finished-at="2024-11-10T18:07:45 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:45 IST" name="tearDown" finished-at="2024-11-10T18:07:45 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:45 IST" name="setUp" finished-at="2024-11-10T18:07:48 IST" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithBlankPassword()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:48 IST" name="testLoginWithBlankPassword" finished-at="2024-11-10T18:07:51 IST" duration-ms="3051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithBlankPassword -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:51 IST" name="closure" finished-at="2024-11-10T18:07:51 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:51 IST" name="tearDown" finished-at="2024-11-10T18:07:52 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:52 IST" name="setUp" finished-at="2024-11-10T18:07:54 IST" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithInvalidCredentials()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:07:54 IST" name="testLoginWithInvalidCredentials" finished-at="2024-11-10T18:08:05 IST" duration-ms="10477" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='nav-link-accountList-nav-line-1']' (tried for 10 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='nav-link-accountList-nav-line-1']' (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.nagarro.selenium_assignment.pageObject.Login.hoverAccountandList(Login.java:32)
+at com.nagarro.selenium_assignment.Test.LoginTest.testLoginWithInvalidCredentials(LoginTest.java:45)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='nav-link-accountList-nav-line-1']"}
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76fb2fab4c3a3c848fc8ed15b592f8dc, findElement {using=xpath, value=//span[@id='nav-link-accountList-nav-line-1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\ASHISH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63401}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63401/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 76fb2fab4c3a3c848fc8ed15b592f8dc
+at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy15.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:05 IST" name="closure" finished-at="2024-11-10T18:08:05 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:05 IST" name="tearDown" finished-at="2024-11-10T18:08:06 IST" duration-ms="1773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:06 IST" name="setUp" finished-at="2024-11-10T18:08:09 IST" duration-ms="2814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithValidCredentials()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:09 IST" name="testLoginWithValidCredentials" finished-at="2024-11-10T18:08:23 IST" duration-ms="13264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidCredentials -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:23 IST" name="closure" finished-at="2024-11-10T18:08:23 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.selenium_assignment.Test.LoginTest@2a8448fa]" started-at="2024-11-10T18:08:23 IST" name="tearDown" finished-at="2024-11-10T18:08:25 IST" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.selenium_assignment.Test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
