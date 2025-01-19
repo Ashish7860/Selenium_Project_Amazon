@@ -1,5 +1,4 @@
 # Selenium_Project_Amazon
-# Selenium Assignment
 
 This project is an automation testing suite for the e-commerce website **Amazon** using Selenium WebDriver and TestNG.
 
